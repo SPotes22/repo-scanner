@@ -9,4 +9,4 @@ env/
 .key
 .csv
 .txt
-
+./auditor/lib/python3.11/site-packages/pkg_resources/__init__.py

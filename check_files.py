@@ -29,7 +29,7 @@ import shutil
 # -------------------------------
 # Carpetas a ignorar
 # -------------------------------
-IGNORE_DIRS = {"venv", ".git", "node_modules", "__pycache__", ".mypy_cache"}
+IGNORE_DIRS = {"auditor","venv", ".git", "node_modules", "__pycache__", ".mypy_cache"}
 
 # -------------------------------
 # Filtros por stack para limpiar salida
