@@ -1,0 +1,12 @@
+auditor/
+auditor
+venv
+env
+.env
+.pyc
+venv/
+env/
+.key
+.csv
+.txt
+
